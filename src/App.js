@@ -1,8 +1,7 @@
-
-import './App.css';
-import Assets from './Assets.js';
-import Documents from './Documents.js';
-import Window from './Window.js';
+import "./App.css";
+import Assets from "./Assets.js";
+import Documents from "./Documents.js";
+import Window from "./Window.js";
 
 function App() {
   return (
@@ -10,7 +9,6 @@ function App() {
       <Assets />
       <Documents />
       <Window />
-      
     </div>
   );
 }
